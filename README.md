@@ -4,15 +4,15 @@ This a Robo developed by Muhammed Fayis PV which speaks the text which it is giv
 
 This Robo is speaking using pyttsx3 module.
 This is functioned to enter a text and submit the text,
-then Robo will pronounce for you.
+Then Robo will pronounce for you.
 
 You can install the module using:
-in Mac:
+In Mac:
 ```
 pip3 install pyttsx3 
 ```
 
-in Windows:
+In Windows:
 ```
 pip install pyttsx3
 ```
